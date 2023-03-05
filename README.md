@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **amanpatel9866@gmail.com**
+- 📫 How to reach me **amanpatel.ajp@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about work but I think I'm funny too**
 
