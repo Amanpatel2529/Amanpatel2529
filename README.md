@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **vue.js ,jQuery, react.js**
 
-- 👯 I’m looking to collaborate on [community classrooms](https://www.commclassroom.org/?r_done=1)
+- 👯 I’m looking to collaborate on [Startup Ideas](https://www.commclassroom.org/?r_done=1)
 
 - 🤝 I’m looking for help with **devops project**
 
