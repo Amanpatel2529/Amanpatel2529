@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a project as angular developer **web development**
 
-- 🌱 I’m currently learning **vue.js ,jQuery, react.js**
+- 🌱 I’m currently learning **Sprinboot and Microservices along with .net framework**
 
 - 👯 I’m looking to collaborate on [Startup Ideas](https://www.commclassroom.org/?r_done=1)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amanpatel.ajp@gmail.com**
 
-- ⚡ Fun fact **I'm passionate about work but I think I'm funny too**
+- ⚡ Fun fact **I'd love to collaborate with like minded peoples**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
