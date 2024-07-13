@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatel2529" alt="amanpatel2529" /></a> </p>
 
-- 🔭 I’m currently working on a project as angular developer **web development**
+- 🔭 I’m currently working on a project as  **angular developer**
 
 - 🌱 I’m currently learning **Sprinboot and Microservices along with .net framework**
 
