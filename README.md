@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **devops project**
 
-- 📝 I regularly write articles on [https://github.com/Amanpatel2529](https://github.com/Amanpatel2529)
+- 📝 I regularly active on [https://github.com/Amanpatel2529](https://github.com/Amanpatel2529)
 
 - 💬 Ask me about **Angular**
 
